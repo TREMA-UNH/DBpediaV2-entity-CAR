@@ -1,0 +1,3 @@
+[submodule "DBpedia-Entity"]
+	path = DBpedia-Entity
+	url = git@github.com:iai-group/DBpedia-Entity.git
