@@ -2,7 +2,7 @@
 Dataset DBpediaV2-entity projected onto TREC CAR Y2 entities
 
 # Description
-This dataset is derived from the [DBpedia-entityV2](https://github.com/iai-group/DBpedia-Entity) dataset. 
+This dataset is derived from the [DBpedia-entityV2](http://tiny.cc/dbpedia-entity) dataset -- also see [DBpedia-Entity github](https://github.com/iai-group/DBpedia-Entity).
 The qrel files are projected onto the Wikipedia dump used in [TREC Complex Answer Retrieval v2.1](http://trec-car.cs.unh.edu/datareleases/), which is provided as allButBenchmark.cbor.
 
 As the original dataset was based on DBpedia from 2015, but TREC CAR is using a dump from 2016, some entities have been deleted or renames. 
